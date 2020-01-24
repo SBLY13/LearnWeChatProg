@@ -1,0 +1,4 @@
+/* pages/about/about.wxss */
+.title {
+  color: red//此处是css知识点
+}

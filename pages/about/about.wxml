@@ -1,0 +1,6 @@
+<!--pages/about/about.wxml-->
+<!-- 以下是HTML知识点-->
+<text class = 'title'>pages/about/about.wxml</text>
+<button size = 'mini'>按钮1</button>
+<button >按钮2</button>
+
